@@ -1,0 +1,18 @@
+{
+  "nome": "Universidade UNA",
+  "cidade": "Belo Horizonte",
+  "cursos": [
+    {
+      "id": 1,
+      "nome": "Sistemas de Informação",
+      "duracao": 4,
+      "coordenador": "Prof. João Silva"
+    },
+    {
+      "id": 2,
+      "nome": "Engenharia de Software",
+      "duracao": 4,
+      "coordenador": "Prof. Maria Souza"
+    }
+  ]
+}

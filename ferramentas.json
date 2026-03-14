@@ -1,0 +1,22 @@
+{
+  "deposito": "Depósito Central",
+  "localizacao": "Setor A",
+  "ferramentas": [
+    {
+      "id": 1,
+      "nome": "Chave de Fenda",
+      "categoria": "Manual",
+      "marca": "Tramontina",
+      "quantidade": 25,
+      "preco": 18.50
+    },
+    {
+      "id": 2,
+      "nome": "Furadeira",
+      "categoria": "Elétrica",
+      "marca": "Bosch",
+      "quantidade": 10,
+      "preco": 350.00
+    }
+  ]
+}
